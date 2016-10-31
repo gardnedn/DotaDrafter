@@ -13,6 +13,11 @@ class Hero {
     unsigned char status; //pick, ban, available.
     int push; //, highGround, gank, lane, heal, damage, vision; //etc
 public:
+    Hero() {
+        name = "Danny";
+        status = 'a';
+        push = 0;
+    }
     Hero(const std::string& n) {
         name = n;
         status = 'a'; //either b for banned, p for picked, a for available.

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5A832B38-F238-47C7-A608-1908C49D7AD6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DotaProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8F798FC62D92499DC3A0CCEF1AE1E1DC50DA3826</key>
+		<string>github.com:gardnedn/DotaDrafter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DotaProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8F798FC62D92499DC3A0CCEF1AE1E1DC50DA3826</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:gardnedn/DotaDrafter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8F798FC62D92499DC3A0CCEF1AE1E1DC50DA3826</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8F798FC62D92499DC3A0CCEF1AE1E1DC50DA3826</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DotaProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>

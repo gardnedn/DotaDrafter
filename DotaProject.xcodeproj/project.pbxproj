@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		B25605861CEEABFE00BAEF6A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25605851CEEABFE00BAEF6A /* main.cpp */; };
 		B25605961CEEB07900BAEF6A /* Hero.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25605941CEEB07900BAEF6A /* Hero.cpp */; };
+		B264FBC41DC8052C0049CA41 /* HeroPool.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B264FBC21DC8052C0049CA41 /* HeroPool.cpp */; };
+		B264FBC71DC805780049CA41 /* DraftMove.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B264FBC51DC805780049CA41 /* DraftMove.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +30,10 @@
 		B25605851CEEABFE00BAEF6A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		B25605941CEEB07900BAEF6A /* Hero.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Hero.cpp; sourceTree = "<group>"; };
 		B25605951CEEB07900BAEF6A /* Hero.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Hero.h; sourceTree = "<group>"; };
+		B264FBC21DC8052C0049CA41 /* HeroPool.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = HeroPool.cpp; sourceTree = "<group>"; };
+		B264FBC31DC8052C0049CA41 /* HeroPool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeroPool.h; sourceTree = "<group>"; };
+		B264FBC51DC805780049CA41 /* DraftMove.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DraftMove.cpp; sourceTree = "<group>"; };
+		B264FBC61DC805780049CA41 /* DraftMove.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DraftMove.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,10 @@
 				B25605851CEEABFE00BAEF6A /* main.cpp */,
 				B25605941CEEB07900BAEF6A /* Hero.cpp */,
 				B25605951CEEB07900BAEF6A /* Hero.h */,
+				B264FBC21DC8052C0049CA41 /* HeroPool.cpp */,
+				B264FBC31DC8052C0049CA41 /* HeroPool.h */,
+				B264FBC51DC805780049CA41 /* DraftMove.cpp */,
+				B264FBC61DC805780049CA41 /* DraftMove.h */,
 			);
 			path = DotaProject;
 			sourceTree = "<group>";
@@ -124,6 +134,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B25605861CEEABFE00BAEF6A /* main.cpp in Sources */,
+				B264FBC41DC8052C0049CA41 /* HeroPool.cpp in Sources */,
+				B264FBC71DC805780049CA41 /* DraftMove.cpp in Sources */,
 				B25605961CEEB07900BAEF6A /* Hero.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -241,6 +253,7 @@
 				B256058B1CEEABFE00BAEF6A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
