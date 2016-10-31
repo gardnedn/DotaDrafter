@@ -1,0 +1,293 @@
+Ragnirok Destroyer of Worlds (W) played 4 2 4 3
+........
+........
+........
+..WW....
+........
+........
+........
+........
+[AWAY 1 GAME_ON]
+Random+ (B) played 4 7 5 7
+........
+........
+.......B
+..WW...B
+........
+........
+........
+........
+[HOME 2 GAME_ON]
+Ragnirok Destroyer of Worlds (W) played 0 5 0 6
+........
+........
+.......B
+..WW...B
+........
+........
+........
+.....WW.
+[AWAY 3 GAME_ON]
+Random+ (B) played 3 6 4 6
+........
+........
+.......B
+..WW..BB
+......B.
+........
+........
+.....WW.
+[HOME 4 GAME_ON]
+Ragnirok Destroyer of Worlds (W) played 1 3 1 4
+........
+........
+.......B
+..WW..BB
+......B.
+........
+...WW...
+.....WW.
+[AWAY 5 GAME_ON]
+Random+ (B) played 5 0 6 0
+........
+B.......
+B......B
+..WW..BB
+......B.
+........
+...WW...
+.....WW.
+[HOME 6 GAME_ON]
+Ragnirok Destroyer of Worlds (W) played 2 1 2 2
+........
+B.......
+B......B
+..WW..BB
+......B.
+.WW.....
+...WW...
+.....WW.
+[AWAY 7 GAME_ON]
+Random+ (B) played 1 0 2 0
+........
+B.......
+B......B
+..WW..BB
+......B.
+BWW.....
+B..WW...
+.....WW.
+[HOME 8 GAME_ON]
+Ragnirok Destroyer of Worlds (W) played 3 4 3 5
+........
+B.......
+B......B
+..WW..BB
+....WWB.
+BWW.....
+B..WW...
+.....WW.
+[AWAY 9 GAME_ON]
+Random+ (B) played 6 4 7 4
+....B...
+B...B...
+B......B
+..WW..BB
+....WWB.
+BWW.....
+B..WW...
+.....WW.
+[HOME 10 GAME_ON]
+Ragnirok Destroyer of Worlds (W) played 0 0 0 1
+....B...
+B...B...
+B......B
+..WW..BB
+....WWB.
+BWW.....
+B..WW...
+WW...WW.
+[AWAY 11 GAME_ON]
+Random+ (B) played 5 6 6 6
+....B...
+B...B.B.
+B.....BB
+..WW..BB
+....WWB.
+BWW.....
+B..WW...
+WW...WW.
+[HOME 12 GAME_ON]
+Ragnirok Destroyer of Worlds (W) played 3 2 3 3
+....B...
+B...B.B.
+B.....BB
+..WW..BB
+..WWWWB.
+BWW.....
+B..WW...
+WW...WW.
+[AWAY 13 GAME_ON]
+Random+ (B) played 0 7 1 7
+....B...
+B...B.B.
+B.....BB
+..WW..BB
+..WWWWB.
+BWW.....
+B..WW..B
+WW...WWB
+[HOME 14 GAME_ON]
+Ragnirok Destroyer of Worlds (W) played 1 1 1 2
+....B...
+B...B.B.
+B.....BB
+..WW..BB
+..WWWWB.
+BWW.....
+BWWWW..B
+WW...WWB
+[AWAY 15 GAME_ON]
+Random+ (B) played 6 3 7 3
+...BB...
+B..BB.B.
+B.....BB
+..WW..BB
+..WWWWB.
+BWW.....
+BWWWW..B
+WW...WWB
+[HOME 16 GAME_ON]
+Ragnirok Destroyer of Worlds (W) played 0 2 0 3
+...BB...
+B..BB.B.
+B.....BB
+..WW..BB
+..WWWWB.
+BWW.....
+BWWWW..B
+WWWW.WWB
+[AWAY 17 GAME_ON]
+Random+ (B) played 6 2 7 2
+..BBB...
+B.BBB.B.
+B.....BB
+..WW..BB
+..WWWWB.
+BWW.....
+BWWWW..B
+WWWW.WWB
+[HOME 18 GAME_ON]
+Ragnirok Destroyer of Worlds (W) played 5 4 5 5
+..BBB...
+B.BBB.B.
+B...WWBB
+..WW..BB
+..WWWWB.
+BWW.....
+BWWWW..B
+WWWW.WWB
+[AWAY 19 GAME_ON]
+Random+ (B) played 6 5 7 5
+..BBBB..
+B.BBBBB.
+B...WWBB
+..WW..BB
+..WWWWB.
+BWW.....
+BWWWW..B
+WWWW.WWB
+[HOME 20 GAME_ON]
+Ragnirok Destroyer of Worlds (W) played 1 5 1 6
+..BBBB..
+B.BBBBB.
+B...WWBB
+..WW..BB
+..WWWWB.
+BWW.....
+BWWWWWWB
+WWWW.WWB
+[AWAY 21 GAME_ON]
+Random+ (B) played 3 1 4 1
+..BBBB..
+B.BBBBB.
+B...WWBB
+.BWW..BB
+.BWWWWB.
+BWW.....
+BWWWWWWB
+WWWW.WWB
+[HOME 22 GAME_ON]
+Ragnirok Destroyer of Worlds (W) played 7 0 7 1
+WWBBBB..
+B.BBBBB.
+B...WWBB
+.BWW..BB
+.BWWWWB.
+BWW.....
+BWWWWWWB
+WWWW.WWB
+[AWAY 23 GAME_ON]
+Random+ (B) played 3 0 4 0
+WWBBBB..
+B.BBBBB.
+B...WWBB
+BBWW..BB
+BBWWWWB.
+BWW.....
+BWWWWWWB
+WWWW.WWB
+[HOME 24 GAME_ON]
+Ragnirok Destroyer of Worlds (W) played 2 6 2 7
+WWBBBB..
+B.BBBBB.
+B...WWBB
+BBWW..BB
+BBWWWWB.
+BWW...WW
+BWWWWWWB
+WWWW.WWB
+[AWAY 25 GAME_ON]
+Random+ (B) played 5 1 6 1
+WWBBBB..
+BBBBBBB.
+BB..WWBB
+BBWW..BB
+BBWWWWB.
+BWW...WW
+BWWWWWWB
+WWWW.WWB
+[HOME 26 GAME_ON]
+Ragnirok Destroyer of Worlds (W) played 2 3 2 4
+WWBBBB..
+BBBBBBB.
+BB..WWBB
+BBWW..BB
+BBWWWWB.
+BWWWW.WW
+BWWWWWWB
+WWWW.WWB
+[AWAY 27 GAME_ON]
+Random+ (B) played 6 7 7 7
+WWBBBB.B
+BBBBBBBB
+BB..WWBB
+BBWW..BB
+BBWWWWB.
+BWWWW.WW
+BWWWWWWB
+WWWW.WWB
+[HOME 28 GAME_ON]
+Ragnirok Destroyer of Worlds (W) played 4 4 4 5
+WWBBBB.B
+BBBBBBBB
+BB..WWBB
+BBWWWWBB
+BBWWWWB.
+BWWWW.WW
+BWWWWWWB
+WWWW.WWB
+[AWAY 29 HOME_WIN]
+Y
+Ragnirok Destroyer of Worlds (W) (299.670000 seconds remaining) won.
+Random+ had 299.997000 seconds remaining.

@@ -10,7 +10,7 @@
 #include <string>
 class Hero {
     std::string name;
-    unsigned char status;
+    unsigned char status; //pick, ban, available.
     int push; //, highGround, gank, lane, heal, damage, vision; //etc
 public:
     Hero(const std::string& n) {

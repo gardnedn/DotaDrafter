@@ -1,0 +1,243 @@
+Random+ (W) played 2 3 2 4
+........
+........
+........
+........
+........
+...WW...
+........
+........
+[AWAY 1 GAME_ON]
+Ragnirok Destroyer of Worlds (B) played 0 5 1 5
+........
+........
+........
+........
+........
+...WW...
+.....B..
+.....B..
+[HOME 2 GAME_ON]
+Random+ (W) played 1 1 1 2
+........
+........
+........
+........
+........
+...WW...
+.WW..B..
+.....B..
+[AWAY 3 GAME_ON]
+Ragnirok Destroyer of Worlds (B) played 0 3 1 3
+........
+........
+........
+........
+........
+...WW...
+.WWB.B..
+...B.B..
+[HOME 4 GAME_ON]
+Random+ (W) played 4 1 4 2
+........
+........
+........
+.WW.....
+........
+...WW...
+.WWB.B..
+...B.B..
+[AWAY 5 GAME_ON]
+Ragnirok Destroyer of Worlds (B) played 2 5 3 5
+........
+........
+........
+.WW.....
+.....B..
+...WWB..
+.WWB.B..
+...B.B..
+[HOME 6 GAME_ON]
+Random+ (W) played 7 4 7 5
+....WW..
+........
+........
+.WW.....
+.....B..
+...WWB..
+.WWB.B..
+...B.B..
+[AWAY 7 GAME_ON]
+Ragnirok Destroyer of Worlds (B) played 4 5 5 5
+....WW..
+........
+.....B..
+.WW..B..
+.....B..
+...WWB..
+.WWB.B..
+...B.B..
+[HOME 8 GAME_ON]
+Random+ (W) played 5 1 5 2
+....WW..
+........
+.WW..B..
+.WW..B..
+.....B..
+...WWB..
+.WWB.B..
+...B.B..
+[AWAY 9 GAME_ON]
+Ragnirok Destroyer of Worlds (B) played 2 1 3 1
+....WW..
+........
+.WW..B..
+.WW..B..
+.B...B..
+.B.WWB..
+.WWB.B..
+...B.B..
+[HOME 10 GAME_ON]
+Random+ (W) played 2 6 2 7
+....WW..
+........
+.WW..B..
+.WW..B..
+.B...B..
+.B.WWBWW
+.WWB.B..
+...B.B..
+[AWAY 11 GAME_ON]
+Ragnirok Destroyer of Worlds (B) played 4 3 5 3
+....WW..
+........
+.WWB.B..
+.WWB.B..
+.B...B..
+.B.WWBWW
+.WWB.B..
+...B.B..
+[HOME 12 GAME_ON]
+Random+ (W) played 3 2 3 3
+....WW..
+........
+.WWB.B..
+.WWB.B..
+.BWW.B..
+.B.WWBWW
+.WWB.B..
+...B.B..
+[AWAY 13 GAME_ON]
+Ragnirok Destroyer of Worlds (B) played 6 1 7 1
+.B..WW..
+.B......
+.WWB.B..
+.WWB.B..
+.BWW.B..
+.B.WWBWW
+.WWB.B..
+...B.B..
+[HOME 14 GAME_ON]
+Random+ (W) played 6 2 6 3
+.B..WW..
+.BWW....
+.WWB.B..
+.WWB.B..
+.BWW.B..
+.B.WWBWW
+.WWB.B..
+...B.B..
+[AWAY 15 GAME_ON]
+Ragnirok Destroyer of Worlds (B) played 3 6 4 6
+.B..WW..
+.BWW....
+.WWB.B..
+.WWB.BB.
+.BWW.BB.
+.B.WWBWW
+.WWB.B..
+...B.B..
+[HOME 16 GAME_ON]
+Random+ (W) played 0 1 0 2
+.B..WW..
+.BWW....
+.WWB.B..
+.WWB.BB.
+.BWW.BB.
+.B.WWBWW
+.WWB.B..
+.WWB.B..
+[AWAY 17 GAME_ON]
+Ragnirok Destroyer of Worlds (B) played 6 6 7 6
+.B..WWB.
+.BWW..B.
+.WWB.B..
+.WWB.BB.
+.BWW.BB.
+.B.WWBWW
+.WWB.B..
+.WWB.B..
+[HOME 18 GAME_ON]
+Random+ (W) played 6 4 6 5
+.B..WWB.
+.BWWWWB.
+.WWB.B..
+.WWB.BB.
+.BWW.BB.
+.B.WWBWW
+.WWB.B..
+.WWB.B..
+[AWAY 19 GAME_ON]
+Ragnirok Destroyer of Worlds (B) played 0 6 1 6
+.B..WWB.
+.BWWWWB.
+.WWB.B..
+.WWB.BB.
+.BWW.BB.
+.B.WWBWW
+.WWB.BB.
+.WWB.BB.
+[HOME 20 GAME_ON]
+Random+ (W) played 5 6 5 7
+.B..WWB.
+.BWWWWB.
+.WWB.BWW
+.WWB.BB.
+.BWW.BB.
+.B.WWBWW
+.WWB.BB.
+.WWB.BB.
+[AWAY 21 GAME_ON]
+Ragnirok Destroyer of Worlds (B) played 0 0 1 0
+.B..WWB.
+.BWWWWB.
+.WWB.BWW
+.WWB.BB.
+.BWW.BB.
+.B.WWBWW
+BWWB.BB.
+BWWB.BB.
+[HOME 22 GAME_ON]
+Random+ (W) played 7 2 7 3
+.BWWWWB.
+.BWWWWB.
+.WWB.BWW
+.WWB.BB.
+.BWW.BB.
+.B.WWBWW
+BWWB.BB.
+BWWB.BB.
+[AWAY 23 GAME_ON]
+Ragnirok Destroyer of Worlds (B) played 0 4 1 4
+.BWWWWB.
+.BWWWWB.
+.WWB.BWW
+.WWB.BB.
+.BWW.BB.
+.B.WWBWW
+BWWBBBB.
+BWWBBBB.
+[HOME 24 AWAY_WIN]
+Y
+Ragnirok Destroyer of Worlds (B) (299.722000 seconds remaining) won.
+Random+ had 299.998000 seconds remaining.
