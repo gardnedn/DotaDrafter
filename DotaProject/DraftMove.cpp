@@ -12,10 +12,12 @@
 class DraftMove {
     Hero h;
     unsigned char action; //ban, pick.
+    unsigned int round; //round the move is made. only positive so unsigned
 public:
-    DraftMove(Hero& hero, const unsigned char& a) {
+    DraftMove(const Hero& hero, const unsigned char& a, const unsigned int r) {
         h = hero;
         action = a;
+        round = r;
     }
     
 };

@@ -14,20 +14,21 @@ class Hero {
     int push; //, highGround, gank, lane, heal, damage, vision; //etc
 public:
     Hero() {
-        name = "Danny";
-        status = 'a';
-        push = 0;
     }
     Hero(const std::string& n) {
         name = n;
         status = 'a'; //either b for banned, p for picked, a for available.
     }
-    //void setPush(const int& p);
+    //make a constructor for all the values once we have them.
+    
     int getPush() {
         return push;
     }
     void setPush(const int& p) {
         push = p;
+    }
+    void setStatus(const unsigned char& s) {
+        status = s;
     }
     //    void sethighGround(const int& p);
     //    void setGank(const int& p);

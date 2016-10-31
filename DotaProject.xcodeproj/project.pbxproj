@@ -11,6 +11,7 @@
 		B25605961CEEB07900BAEF6A /* Hero.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B25605941CEEB07900BAEF6A /* Hero.cpp */; };
 		B264FBC41DC8052C0049CA41 /* HeroPool.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B264FBC21DC8052C0049CA41 /* HeroPool.cpp */; };
 		B264FBC71DC805780049CA41 /* DraftMove.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B264FBC51DC805780049CA41 /* DraftMove.cpp */; };
+		B264FBCA1DC80C580049CA41 /* Team.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B264FBC81DC80C580049CA41 /* Team.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +35,8 @@
 		B264FBC31DC8052C0049CA41 /* HeroPool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeroPool.h; sourceTree = "<group>"; };
 		B264FBC51DC805780049CA41 /* DraftMove.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DraftMove.cpp; sourceTree = "<group>"; };
 		B264FBC61DC805780049CA41 /* DraftMove.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DraftMove.h; sourceTree = "<group>"; };
+		B264FBC81DC80C580049CA41 /* Team.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Team.cpp; sourceTree = "<group>"; };
+		B264FBC91DC80C580049CA41 /* Team.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Team.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +76,8 @@
 				B264FBC31DC8052C0049CA41 /* HeroPool.h */,
 				B264FBC51DC805780049CA41 /* DraftMove.cpp */,
 				B264FBC61DC805780049CA41 /* DraftMove.h */,
+				B264FBC81DC80C580049CA41 /* Team.cpp */,
+				B264FBC91DC80C580049CA41 /* Team.h */,
 			);
 			path = DotaProject;
 			sourceTree = "<group>";
@@ -137,6 +142,7 @@
 				B264FBC41DC8052C0049CA41 /* HeroPool.cpp in Sources */,
 				B264FBC71DC805780049CA41 /* DraftMove.cpp in Sources */,
 				B25605961CEEB07900BAEF6A /* Hero.cpp in Sources */,
+				B264FBCA1DC80C580049CA41 /* Team.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
