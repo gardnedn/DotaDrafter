@@ -13,7 +13,8 @@
 #include <vector>
 
     HeroPool::HeroPool() {
-        
+        std::vector<Hero> p;
+        //std::vector<Hero> HeroPool::pool;
         Hero Lesh = Hero("Leshrac");
         Lesh.setPush(80);
         
@@ -32,11 +33,10 @@
         Hero TA = Hero("Axe");
         TA.setPush(30);
         
-        pool.push_back(Lesh);
-        pool.push_back(Abadon);
-        pool.push_back(Phoenix);
-        pool.push_back(Axe);
-        pool.push_back(Riki);
-        pool.push_back(TA);
+        HeroPool::pool.push_back(Lesh);
+        
     }
+
+
+std::vector<Hero> HeroPool::getPool() { return HeroPool::pool;}
 

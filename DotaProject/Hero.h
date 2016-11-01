@@ -22,6 +22,7 @@ public:
     void setStatus(const unsigned char& s);
     void setPush(const int&);
     int getPush();
+    std::string getName();
 };
 
 

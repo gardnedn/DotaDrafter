@@ -13,11 +13,11 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
     
+
+    HeroPool hp = HeroPool::HeroPool();
+    std::vector<Hero> vec = hp.getPool();
+    Hero h = vec.pop_back();
     
-    HeroPool hp = HeroPool();
-    
-    
-    //std::cout << TA.getPush();
     return 0;
 }
 

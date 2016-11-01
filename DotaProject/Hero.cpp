@@ -24,6 +24,9 @@ void Hero::setPush(const int& p) {
 void Hero::setStatus(const unsigned char& s) {
          status = s;
      }
+std::string Hero::getName() {
+    return name;
+}
 //     void sethighGround(const int& p);
 //     void setGank(const int& p);
 //     void setLane(const int& p);
