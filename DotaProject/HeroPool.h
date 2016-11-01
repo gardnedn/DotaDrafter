@@ -10,5 +10,16 @@
 #define __DotaProject__HeroPool__
 
 #include <stdio.h>
+#include "Hero.h"
+#include <vector>
+class HeroPool {
+    std::vector<Hero> pool;
+    
+    
+public:
+    HeroPool();
+        
+};
+
 
 #endif /* defined(__DotaProject__HeroPool__) */

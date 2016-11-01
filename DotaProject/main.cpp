@@ -7,8 +7,8 @@
 //
 
 #include <iostream>
-#include "hero.cpp"
-#include "HeroPool.cpp"
+#include "Hero.h"
+#include "HeroPool.h"
 #include <vector>
 int main(int argc, const char * argv[]) {
     // insert code here...

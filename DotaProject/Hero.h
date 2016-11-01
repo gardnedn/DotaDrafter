@@ -2,15 +2,27 @@
 //  Hero.h
 //  DotaProject
 //
-//  Created by Daniel Gardner on 5/19/16.
+//  Created by Daniel Gardner on 10/31/16.
 //  Copyright (c) 2016 Daniel Gardner. All rights reserved.
 //
-#include <string>
+
 #ifndef __DotaProject__Hero__
 #define __DotaProject__Hero__
 
-//Hero(const std::string& n);
-void setPush(const int& p);
-int getPush();
+#include <stdio.h>
+#include <string>
+class Hero {
+    std::string name;
+    unsigned char status;
+    int push;
+
+public:
+    Hero();
+    Hero(const std::string&);
+    void setStatus(const unsigned char& s);
+    void setPush(const int&);
+    int getPush();
+};
+
 
 #endif /* defined(__DotaProject__Hero__) */

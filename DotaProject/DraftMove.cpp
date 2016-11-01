@@ -7,7 +7,7 @@
 //
 
 #include "DraftMove.h"
-#include "Hero.cpp"
+#include "Hero.h"
 
 class DraftMove {
     Hero h;

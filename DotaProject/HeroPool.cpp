@@ -8,15 +8,12 @@
 
 #include "HeroPool.h"
 
-#include "Hero.cpp"
+#include "Hero.h"
 #include <string>
 #include <vector>
-class HeroPool {
-    std::vector<Hero> pool;
-    
-    
-public:
-    HeroPool() {
+
+    HeroPool::HeroPool() {
+        
         Hero Lesh = Hero("Leshrac");
         Lesh.setPush(80);
         
@@ -40,5 +37,6 @@ public:
         pool.push_back(Phoenix);
         pool.push_back(Axe);
         pool.push_back(Riki);
-        pool.push_back(TA);    }
-};
+        pool.push_back(TA);
+    }
+

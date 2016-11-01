@@ -8,7 +8,7 @@
 
 #include "Team.h"
 #include <vector>
-#include "Hero.cpp"
+#include "Hero.h"
 
 class Team {
     std::vector<Hero> selectedHeroes;
