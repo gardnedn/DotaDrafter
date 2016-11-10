@@ -10,5 +10,17 @@
 #define __DotaProject__DraftMove__
 
 #include <stdio.h>
+#include "Hero.h"
+class DraftMove {
+    Hero hero;
+    unsigned char action; //ban, pick.
+    unsigned int round; //round the move is made. only positive so unsigned
+public:
+    DraftMove(const Hero& hero, const unsigned char& a, const unsigned int r);
+    Hero getHero() ;
+    unsigned char getAction() ;
+    unsigned int getRound() ;
+};
+
 
 #endif /* defined(__DotaProject__DraftMove__) */

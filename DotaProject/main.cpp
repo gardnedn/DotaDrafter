@@ -10,6 +10,7 @@
 #include "Hero.h"
 #include "HeroPool.h"
 #include <vector>
+#include "Team.h"
 int main(int argc, const char * argv[]) {
     
     
@@ -20,7 +21,10 @@ int main(int argc, const char * argv[]) {
     if(!vec.empty()) {
         h = vec.back();
         vec.pop_back();
+        Team t;
+        t.addHero(h);
     }
+    
     //
     return 0;
 }

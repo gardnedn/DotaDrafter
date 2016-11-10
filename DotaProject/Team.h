@@ -10,5 +10,33 @@
 #define __DotaProject__Team__
 
 #include <stdio.h>
+#include <vector>
+#include "Hero.h"
+class Team {
+    std::vector<Hero> selectedHeroes;
+public:
+    Team();
+    void addHero(Hero& h);
+    
+};
+
 
 #endif /* defined(__DotaProject__Team__) */
+/*
+
+ class Hero {
+ 
+ public:
+ std::string name;
+ unsigned char status;
+ int push;
+ 
+ Hero();
+ Hero(const std::string&);
+ void setStatus(const unsigned char& s);
+ void setPush(const int&);
+ int getPush();
+ std::string getName();
+ };
+ 
+*/

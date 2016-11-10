@@ -9,16 +9,20 @@
 #include "DraftMove.h"
 #include "Hero.h"
 
-class DraftMove {
-    Hero h;
-    unsigned char action; //ban, pick.
-    unsigned int round; //round the move is made. only positive so unsigned
-public:
-    DraftMove(const Hero& hero, const unsigned char& a, const unsigned int r) {
-        h = hero;
+
+    DraftMove::DraftMove(const Hero& h, const unsigned char& a, const unsigned int r) {
+        hero = h;
         action = a;
         round = r;
     }
-    
-};
+Hero DraftMove::getHero() {
+    return hero;
+}
+unsigned char DraftMove::getAction() {
+    return action;
+}
+unsigned int DraftMove::getRound() {
+    return round;
+}
+
 

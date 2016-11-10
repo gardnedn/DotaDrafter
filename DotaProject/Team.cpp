@@ -10,15 +10,12 @@
 #include <vector>
 #include "Hero.h"
 
-class Team {
-    std::vector<Hero> selectedHeroes;
-public:
-    Team() {
+
+Team::Team() {
         
     }
-    void addHero(Hero& h) {
+void Team::addHero(Hero& h) {
         selectedHeroes.push_back(h);
         h.setStatus('p');
     }
-    
-};
+

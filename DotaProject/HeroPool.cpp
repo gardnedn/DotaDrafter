@@ -35,5 +35,5 @@
     }
 
 
-std::vector<Hero::Hero> HeroPool::getPool() { std::cout << pool.back().getName(); return pool;}
+std::vector<Hero::Hero> HeroPool::getPool() { return pool; }
 
