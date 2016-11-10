@@ -11,13 +11,17 @@
 #include "HeroPool.h"
 #include <vector>
 int main(int argc, const char * argv[]) {
-    // insert code here...
     
-
-    HeroPool hp = HeroPool::HeroPool();
+    
+    //testing. works
+    HeroPool hp = HeroPool();
     std::vector<Hero> vec = hp.getPool();
-    Hero h = vec.pop_back();
-    
+    Hero h;
+    if(!vec.empty()) {
+        h = vec.back();
+        vec.pop_back();
+    }
+    //
     return 0;
 }
 

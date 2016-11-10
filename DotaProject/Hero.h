@@ -12,11 +12,12 @@
 #include <stdio.h>
 #include <string>
 class Hero {
+    
+public:
     std::string name;
     unsigned char status;
     int push;
 
-public:
     Hero();
     Hero(const std::string&);
     void setStatus(const unsigned char& s);

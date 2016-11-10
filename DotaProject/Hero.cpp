@@ -2,16 +2,17 @@
  //
  #include "Hero.h"
  #include <string>
- 
+#include <iostream>
 
 Hero::Hero() {
-         name = "";
-         status = 'a';
-         push = 0;
-     }
+    name = "Danny";
+    status = 'a';
+    push = 0;
+}
 Hero::Hero(const std::string& n) {
          name = n;
          status = 'a'; //either b for banned, p for picked, a for available.
+        push = 0;
      }
      //make a constructor for all the values once we have them.
  
