@@ -12,7 +12,8 @@
 #include <vector>
 #include "Team.h"
 int main(int argc, const char * argv[]) {
-    
+    //going to intialize hero pool, a game state with two empty teams, and the full heropool.
+    //call alpha beta to make moves. 
     
     //testing. works
     HeroPool hp = HeroPool();
@@ -32,7 +33,7 @@ int main(int argc, const char * argv[]) {
 
 /*alpha beta pruning 
  
- 
+ private void alphaBeta(DomineeringState brd, int currDepth, double alpha, double beta){
  boolean toMaximize = (brd.getWho() == GameState.Who.HOME);
  boolean toMinimize = !toMaximize;
  

@@ -15,8 +15,9 @@ class DraftMove {
     Hero hero;
     unsigned char action; //ban, pick.
     unsigned int round; //round the move is made. only positive so unsigned
+    double score;
 public:
-    DraftMove(const Hero& hero, const unsigned char& a, const unsigned int r);
+    DraftMove(const Hero& hero, const unsigned char& a, const unsigned int& r, const double& s);
     Hero getHero() ;
     unsigned char getAction() ;
     unsigned int getRound() ;

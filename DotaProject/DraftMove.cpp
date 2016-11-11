@@ -10,10 +10,12 @@
 #include "Hero.h"
 
 
-    DraftMove::DraftMove(const Hero& h, const unsigned char& a, const unsigned int r) {
+    DraftMove::DraftMove(const Hero& h, const unsigned char& a, const unsigned int& r, const double& s) {
+        
         hero = h;
         action = a;
         round = r;
+        score = s;
     }
 Hero DraftMove::getHero() {
     return hero;
