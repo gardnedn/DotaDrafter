@@ -12,6 +12,7 @@
 #include <stdio.h>
 #include "Hero.h"
 class DraftMove {
+private:
     Hero hero;
     unsigned char action; //ban, pick.
     unsigned int round; //round the move is made. only positive so unsigned

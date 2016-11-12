@@ -13,13 +13,14 @@
 #include "Hero.h"
 #include <vector>
 class HeroPool {
+private:
     std::vector<Hero> pool;
     
 public:
     //
     HeroPool();
+    std::vector<Hero> getPool();
     
-    std::vector<Hero::Hero> getPool();
 };
 
 

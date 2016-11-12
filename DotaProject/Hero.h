@@ -12,18 +12,24 @@
 #include <stdio.h>
 #include <string>
 class Hero {
-    
-public:
+private:
     std::string name;
     unsigned char status;
     int push;
+public:
+    
 
     Hero();
     Hero(const std::string&);
+    
+    void setName(const std::string& s);
     void setStatus(const unsigned char& s);
     void setPush(const int&);
-    int getPush();
+    
     std::string getName();
+    unsigned char getStatus();
+    int getPush();
+    
 };
 
 

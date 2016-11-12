@@ -13,10 +13,12 @@
 #include <vector>
 #include "Hero.h"
 class Team {
+private:
     std::vector<Hero> selectedHeroes;
+    void addHero(Hero& h);
 public:
     Team();
-    void addHero(Hero& h);
+    
     
 };
 
