@@ -24,6 +24,7 @@ int main(int argc, const char * argv[]) {
         vec.pop_back();
         Team t;
         t.addHero(h);
+        std::cout << h.getName();
     }
     
     //

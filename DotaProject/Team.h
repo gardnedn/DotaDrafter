@@ -15,10 +15,14 @@
 class Team {
 private:
     std::vector<Hero> selectedHeroes;
-    void addHero(Hero& h);
+    bool isRadiant, firstPick;
 public:
     Team();
-    
+    void addHero(Hero& h);
+    void setIsRadiant(const bool& b);
+    bool getIsRadiant();
+    void setIsFirstPick(const bool& b);
+    bool isFirstPick();
     
 };
 
