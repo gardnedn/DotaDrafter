@@ -18,9 +18,10 @@ class DraftMove {
     double score;
 public:
     DraftMove(const Hero& hero, const unsigned char& a, const unsigned int& r, const double& s);
-    Hero getHero() ;
-    unsigned char getAction() ;
-    unsigned int getRound() ;
+    Hero getHero();
+    unsigned char getAction();
+    unsigned int getRound();
+    double getScore();
 };
 
 

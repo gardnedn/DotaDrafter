@@ -26,5 +26,8 @@ unsigned char DraftMove::getAction() {
 unsigned int DraftMove::getRound() {
     return round;
 }
+double DraftMove::getScore() {
+    return score;
+}
 
 
