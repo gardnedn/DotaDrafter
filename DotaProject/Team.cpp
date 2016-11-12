@@ -30,4 +30,4 @@ void Team::setIsFirstPick(const bool& b){
 bool Team::isFirstPick() {
     return firstPick;
 }
-
+std::vector<Hero> Team::getSelectedHeroes() { return selectedHeroes; }

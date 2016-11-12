@@ -7,6 +7,9 @@
 //
 
 #include "GardnerBot.h"
+#include <numeric>
+//will have to implement weights -can only be finalized once i have every draft attribute i want
+//so will have to be a basic rough draft.
 
 
 Team GardnerBot::getDire() {
@@ -22,11 +25,20 @@ std::vector<DraftMove> GardnerBot::getMvStack() {
     return mvStack;
 }
 
+//possibly could have the evaluate in the team class, however we do need the weights vectors. which
+//we could maybe pass in
 double GardnerBot::evaluate(std::vector<int> weights, Team t) {
-    return 0.0;
+    
+    return std::accumulate(t.getSelectedHeroes().begin(), t.getSelectedHeroes().end(),0);
+    
+
 }
 
-void GardnerBot::alphaBeta(HeroPool hp, int currDepth, double alpha, double beta,
-               bool firstTeamToPick, bool isRadiant, Team team) {
+void GardnerBot::alphaBeta(HeroPool hp, int currDepth, double alpha, double beta, Team team) {
     
 }
+
+/*essentially there are two situations:
+    - radiant first pick vs dire second pick
+    - dire first pick vs radiant second pick.
+*/

@@ -26,7 +26,7 @@ private:
     HeroPool pool;
     std::vector<DraftMove> mvStack;
     
-    double evaluate(std::vector<int> weights, Team t, bool isRadiant);
+    double evaluate(std::vector<int> weights, Team t);
     void alphaBeta(HeroPool hp, int currDepth, double alpha, double beta,Team team);
     
 };

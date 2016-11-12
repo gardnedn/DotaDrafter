@@ -13,6 +13,7 @@ Hero::Hero(const std::string& n) {
          name = n;
          status = 'a'; //either b for banned, p for picked, a for available.
          push = 0;
+        //future likely moving to a vector of attributes. might be cleaner.
      }
      //make a constructor for all the values once we have them.
  

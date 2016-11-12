@@ -18,6 +18,7 @@ private:
     bool isRadiant, firstPick;
 public:
     Team();
+    std::vector<Hero> getSelectedHeroes();
     void addHero(Hero& h);
     void setIsRadiant(const bool& b);
     bool getIsRadiant();
